@@ -9,4 +9,9 @@
  * missing num = 6
  */
 
+const missingNum = (arr) => {
+  
+};
 
+const testArr = [3,7,1,2,8,4,5];
+missingNum(testArr);
